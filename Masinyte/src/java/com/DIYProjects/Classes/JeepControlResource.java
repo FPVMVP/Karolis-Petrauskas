@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.DIYProjects.Classes;
 
 import javax.ws.rs.Consumes;
@@ -12,11 +7,6 @@ import javax.ws.rs.PUT;
 import javax.ws.rs.DELETE;
 import javax.ws.rs.core.MediaType;
 
-/**
- * REST Web Service
- *
- * @author root
- */
 public class JeepControlResource {
 
     private String id;
